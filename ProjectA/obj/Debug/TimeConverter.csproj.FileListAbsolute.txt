@@ -1,0 +1,10 @@
+C:\Users\jahn2488\Desktop\TimeConverter\TimeConverter\bin\Debug\TimeConverter.exe.config
+C:\Users\jahn2488\Desktop\TimeConverter\TimeConverter\bin\Debug\TimeConverter.exe
+C:\Users\jahn2488\Desktop\TimeConverter\TimeConverter\bin\Debug\TimeConverter.pdb
+C:\Users\jahn2488\Desktop\TimeConverter\TimeConverter\obj\Debug\TimeConverter.csprojResolveAssemblyReference.cache
+C:\Users\jahn2488\Desktop\TimeConverter\TimeConverter\obj\Debug\TimeConverter.Properties.Resources.resources
+C:\Users\jahn2488\Desktop\TimeConverter\TimeConverter\obj\Debug\TimeConverter.csproj.GenerateResource.Cache
+C:\Users\jahn2488\Desktop\TimeConverter\TimeConverter\obj\Debug\TimeConverter.csproj.CoreCompileInputs.cache
+C:\Users\jahn2488\Desktop\TimeConverter\TimeConverter\obj\Debug\TimeConverter.exe
+C:\Users\jahn2488\Desktop\TimeConverter\TimeConverter\obj\Debug\TimeConverter.pdb
+C:\Users\jahn2488\Desktop\TimeConverter\TimeConverter\obj\Debug\TimeConverter.TimeConverter.resources

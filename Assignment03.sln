@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectA", "ProjectA\ProjectA.csproj", "{E0BE7C4A-ECCF-4921-AC38-F9A41C3A9FF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectB", "ProjectB\ProjectB.csproj", "{4D84387F-9A8D-4C63-8F04-8A78B742010A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectC", "ProjectC\ProjectC.csproj", "{2AD4D3F7-B170-4F3C-A80C-41049165EBEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0BE7C4A-ECCF-4921-AC38-F9A41C3A9FF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0BE7C4A-ECCF-4921-AC38-F9A41C3A9FF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0BE7C4A-ECCF-4921-AC38-F9A41C3A9FF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0BE7C4A-ECCF-4921-AC38-F9A41C3A9FF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D84387F-9A8D-4C63-8F04-8A78B742010A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D84387F-9A8D-4C63-8F04-8A78B742010A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D84387F-9A8D-4C63-8F04-8A78B742010A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D84387F-9A8D-4C63-8F04-8A78B742010A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AD4D3F7-B170-4F3C-A80C-41049165EBEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AD4D3F7-B170-4F3C-A80C-41049165EBEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AD4D3F7-B170-4F3C-A80C-41049165EBEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AD4D3F7-B170-4F3C-A80C-41049165EBEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {127A2EDA-7F80-4BC6-8B6E-D00581A88D60}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,29 @@
+C:\Users\jahn2488\Desktop\Assignment03\Assignment03\bin\Debug\TimeConverter.exe.config
+C:\Users\jahn2488\Desktop\Assignment03\Assignment03\bin\Debug\TimeConverter.exe
+C:\Users\jahn2488\Desktop\Assignment03\Assignment03\bin\Debug\TimeConverter.pdb
+C:\Users\jahn2488\Desktop\Assignment03\Assignment03\obj\Debug\TimeConverter.Properties.Resources.resources
+C:\Users\jahn2488\Desktop\Assignment03\Assignment03\obj\Debug\ProjectA.csproj.GenerateResource.Cache
+C:\Users\jahn2488\Desktop\Assignment03\Assignment03\obj\Debug\ProjectA.csproj.CoreCompileInputs.cache
+C:\Users\jahn2488\Desktop\Assignment03\Assignment03\obj\Debug\TimeConverter.exe
+C:\Users\jahn2488\Desktop\Assignment03\Assignment03\obj\Debug\TimeConverter.pdb
+C:\Users\jahn2488\Desktop\Assignment03\Assignment03\obj\Debug\Assignment03.ProjectA.resources
+C:\Users\jahn2488\Desktop\Assignment03\ProjectA\bin\Debug\TimeConverter.exe.config
+C:\Users\jahn2488\Desktop\Assignment03\ProjectA\bin\Debug\TimeConverter.exe
+C:\Users\jahn2488\Desktop\Assignment03\ProjectA\bin\Debug\TimeConverter.pdb
+C:\Users\jahn2488\Desktop\Assignment03\ProjectA\obj\Debug\Assignment03.ProjectA.resources
+C:\Users\jahn2488\Desktop\Assignment03\ProjectA\obj\Debug\TimeConverter.Properties.Resources.resources
+C:\Users\jahn2488\Desktop\Assignment03\ProjectA\obj\Debug\ProjectA.csproj.GenerateResource.Cache
+C:\Users\jahn2488\Desktop\Assignment03\ProjectA\obj\Debug\ProjectA.csproj.CoreCompileInputs.cache
+C:\Users\jahn2488\Desktop\Assignment03\ProjectA\obj\Debug\TimeConverter.exe
+C:\Users\jahn2488\Desktop\Assignment03\ProjectA\obj\Debug\TimeConverter.pdb
+C:\Users\jahn2488\Desktop\Assignment03\ProjectA\obj\Debug\ProjectA.csprojResolveAssemblyReference.cache
+D:\Dropbox\College\0_2018_Winter\PROG2070 - Programming Software Quality Assurance\assignments\3\Assignment03\ProjectA\bin\Debug\TimeConverter.exe.config
+D:\Dropbox\College\0_2018_Winter\PROG2070 - Programming Software Quality Assurance\assignments\3\Assignment03\ProjectA\bin\Debug\TimeConverter.exe
+D:\Dropbox\College\0_2018_Winter\PROG2070 - Programming Software Quality Assurance\assignments\3\Assignment03\ProjectA\bin\Debug\TimeConverter.pdb
+D:\Dropbox\College\0_2018_Winter\PROG2070 - Programming Software Quality Assurance\assignments\3\Assignment03\ProjectA\obj\Debug\ProjectA.csprojResolveAssemblyReference.cache
+D:\Dropbox\College\0_2018_Winter\PROG2070 - Programming Software Quality Assurance\assignments\3\Assignment03\ProjectA\obj\Debug\Assignment03.ProjectA.resources
+D:\Dropbox\College\0_2018_Winter\PROG2070 - Programming Software Quality Assurance\assignments\3\Assignment03\ProjectA\obj\Debug\TimeConverter.Properties.Resources.resources
+D:\Dropbox\College\0_2018_Winter\PROG2070 - Programming Software Quality Assurance\assignments\3\Assignment03\ProjectA\obj\Debug\ProjectA.csproj.GenerateResource.Cache
+D:\Dropbox\College\0_2018_Winter\PROG2070 - Programming Software Quality Assurance\assignments\3\Assignment03\ProjectA\obj\Debug\ProjectA.csproj.CoreCompileInputs.cache
+D:\Dropbox\College\0_2018_Winter\PROG2070 - Programming Software Quality Assurance\assignments\3\Assignment03\ProjectA\obj\Debug\TimeConverter.exe
+D:\Dropbox\College\0_2018_Winter\PROG2070 - Programming Software Quality Assurance\assignments\3\Assignment03\ProjectA\obj\Debug\TimeConverter.pdb
